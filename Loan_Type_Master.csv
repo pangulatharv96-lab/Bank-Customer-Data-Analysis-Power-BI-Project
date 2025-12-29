@@ -1,0 +1,5 @@
+Loan_Type,Risk_Category,Max_Tenure
+Home Loan,Low,30
+Car Loan,Medium,7
+Personal Loan,High,5
+Education Loan,Medium,15
